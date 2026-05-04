@@ -1,0 +1,501 @@
+transaction_id,date,branch_id,branch_name,kota,provinsi,rating_cabang,product_id,product_name,actual_price,discount_percentage,persentase_gross_laba,nett_sales,nett_profit,rating_transaksi
+TRX5103706,25/08/2021,93529,Kimia Farma - Klinik & Apotek,Yogyakarta,DI Yogyakarta,"4,3",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,1","0,2",226530,45306,3
+TRX5388139,29/12/2020,24832,Kimia Farma - Klinik-Apotek-Laboratorium,Pekanbaru,Riau,"4,2",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,12","0,2",221496,"44299,2",3
+TRX7251897,03/02/2020,20505,Kimia Farma - Apotek,Cilacap,Jawa Tengah,"4,5",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,09","0,2",229047,"45809,4",3
+TRX4943675,09/09/2022,17678,Kimia Farma - Klinik & Apotek,Subang,Jawa Barat,"4,8",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,1","0,2",226530,45306,3
+TRX3469820,20/06/2020,28315,Kimia Farma - Klinik-Apotek-Laboratorium,Sukabumi,Jawa Barat,"3,9",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,07","0,2",234081,"46816,2",3
+TRX1213133,17/09/2021,22280,Kimia Farma - Apotek,Batam,Kepulauan Riau,"4,5",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,11","0,2",224013,"44802,6",3
+TRX2020131,16/12/2020,40028,Kimia Farma - Klinik-Apotek-Laboratorium,Balikpapan,Kalimantan Timur,4,KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,03","0,2",244149,"48829,8",3
+TRX5015870,17/08/2022,41343,Kimia Farma - Apotek,Semarang,Jawa Tengah,4,KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,03","0,2",244149,"48829,8",3
+TRX7064077,21/06/2021,86546,Kimia Farma - Klinik & Apotek,Pematangsiantar,Sumatera Utara,"4,5",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,04","0,2",241632,"48326,4",3
+TRX5979742,31/12/2020,18235,Kimia Farma - Klinik & Apotek,Pekanbaru,Riau,"4,8",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,11","0,2",224013,"44802,6",3
+TRX2209141,20/03/2021,59571,Kimia Farma - Klinik-Apotek-Laboratorium,Tarakan,Kalimantan Utara,"4,9",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,1","0,2",226530,45306,3
+TRX5385534,17/03/2023,69280,Kimia Farma - Klinik-Apotek-Laboratorium,Purwakarta,Jawa Barat,4,KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,11","0,2",224013,"44802,6",3
+TRX9155202,11/04/2020,29626,Kimia Farma - Klinik & Apotek,Bitung,Sulawesi Utara,"4,6",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,02","0,2",246666,"49333,2",3
+TRX1702542,15/09/2022,48590,Kimia Farma - Klinik & Apotek,Garut,Jawa Barat,"4,9",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,12","0,2",221496,"44299,2",3
+TRX8205780,19/10/2022,37915,Kimia Farma - Klinik & Apotek,Cianjur,Jawa Barat,"3,9",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,13","0,2",218979,"43795,8",3
+TRX3208671,20/12/2023,66935,Kimia Farma - Klinik & Apotek,Madiun,Jawa Timur,"4,3",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,05","0,2",239115,47823,3
+TRX2085415,11/02/2022,17678,Kimia Farma - Klinik & Apotek,Subang,Jawa Barat,"4,8",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,07","0,2",234081,"46816,2",3
+TRX1384968,01/07/2020,33691,Kimia Farma - Klinik-Apotek-Laboratorium,Palu,Sulawesi Tengah,"4,9",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,03","0,2",244149,"48829,8",3
+TRX7358419,19/01/2020,19224,Kimia Farma - Apotek,Purwakarta,Jawa Barat,"4,4",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,15","0,2",213945,42789,3
+TRX5628390,15/01/2021,58219,Kimia Farma - Apotek,Magelang,Jawa Tengah,"4,3",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,13","0,2",218979,"43795,8",3
+TRX6463209,13/03/2021,96558,Kimia Farma - Apotek,Denpasar,Bali,"4,7",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,08","0,2",231564,"46312,8",3
+TRX1588524,06/03/2023,20554,Kimia Farma - Klinik-Apotek-Laboratorium,Cirebon,Jawa Barat,"4,2",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,06","0,2",236598,"47319,6",3
+TRX6976260,23/06/2022,73596,Kimia Farma - Klinik-Apotek-Laboratorium,Subang,Jawa Barat,"4,8",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,09","0,2",229047,"45809,4",3
+TRX7535559,20/11/2021,18250,Kimia Farma - Klinik-Apotek-Laboratorium,Jakarta,DKI Jakarta,"4,4",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,08","0,2",231564,"46312,8",3
+TRX4712362,19/02/2023,60936,Kimia Farma - Apotek,Subang,Jawa Barat,"4,8",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,15","0,2",213945,42789,3
+TRX5721137,09/08/2020,54078,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,"4,7",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,12","0,2",221496,"44299,2",3
+TRX1101446,02/07/2022,28211,Kimia Farma - Klinik-Apotek-Laboratorium,Medan,Sumatera Utara,"4,6",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,14","0,2",216462,"43292,4",3
+TRX7849350,22/01/2022,92115,Kimia Farma - Apotek,Purwakarta,Jawa Barat,"4,5",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,04","0,2",241632,"48326,4",3
+TRX3976120,20/12/2021,84382,Kimia Farma - Klinik-Apotek-Laboratorium,Subang,Jawa Barat,"4,1",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,05","0,2",239115,47823,3
+TRX9210209,11/07/2020,86237,Kimia Farma - Klinik-Apotek-Laboratorium,Payakumbuh,Sumatera Barat,4,KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,0,"0,2",251700,50340,3
+TRX3803949,20/12/2022,99291,Kimia Farma - Klinik-Apotek-Laboratorium,Tasikmalaya,Jawa Barat,"4,2",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,08","0,2",231564,"46312,8",3
+TRX7305749,28/11/2020,67118,Kimia Farma - Klinik & Apotek,Banda Aceh,Aceh,"4,7",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,01","0,2",249183,"49836,6",3
+TRX3677605,22/01/2021,20339,Kimia Farma - Klinik & Apotek,Tasikmalaya,Jawa Barat,"4,9",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,02","0,2",246666,"49333,2",3
+TRX5092991,27/09/2020,37131,Kimia Farma - Klinik & Apotek,Kuningan,Jawa Barat,"4,2",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,06","0,2",236598,"47319,6",3
+TRX9849272,04/04/2022,94975,Kimia Farma - Klinik-Apotek-Laboratorium,Kuningan,Jawa Barat,"4,2",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,07","0,2",234081,"46816,2",3
+TRX8756950,27/10/2020,16185,Kimia Farma - Klinik & Apotek,Mataram,Nusa Tenggara Barat,"4,3",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,04","0,2",241632,"48326,4",3
+TRX9681018,07/11/2022,14495,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,"4,8",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,01","0,2",249183,"49836,6",3
+TRX6394468,08/07/2021,19393,Kimia Farma - Klinik & Apotek,Magelang,Jawa Tengah,4,KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,01","0,2",249183,"49836,6",3
+TRX4295475,04/04/2022,28703,Kimia Farma - Klinik & Apotek,Tanjungpinang,Kepulauan Riau,"4,2",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,09","0,2",229047,"45809,4",3
+TRX9707876,13/10/2023,66935,Kimia Farma - Klinik & Apotek,Madiun,Jawa Timur,"4,3",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,07","0,2",234081,"46816,2",3
+TRX9873499,11/02/2022,62312,Kimia Farma - Apotek,Cianjur,Jawa Barat,"4,5",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,13","0,2",218979,"43795,8",3
+TRX1805291,18/07/2022,33104,Kimia Farma - Klinik & Apotek,Balikpapan,Kalimantan Timur,"3,9",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,1","0,2",226530,45306,3
+TRX4632927,22/03/2022,29294,Kimia Farma - Klinik-Apotek-Laboratorium,Ternate,Maluku Utara,"4,1",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,12","0,2",221496,"44299,2",3
+TRX2525529,27/02/2023,45521,Kimia Farma - Klinik & Apotek,Pekanbaru,Riau,"4,8",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,01","0,2",249183,"49836,6",3
+TRX8385029,24/04/2021,84760,Kimia Farma - Klinik-Apotek-Laboratorium,Tarakan,Kalimantan Utara,"4,2",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,1","0,2",226530,45306,3
+TRX3595943,12/08/2021,66961,Kimia Farma - Klinik & Apotek,Cirebon,Jawa Barat,"4,7",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,15","0,2",213945,42789,3
+TRX4499981,15/04/2022,24277,Kimia Farma - Apotek,Lhokseumawe,Aceh,"4,2",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,15","0,2",213945,42789,3
+TRX7074067,11/12/2020,43992,Kimia Farma - Klinik-Apotek-Laboratorium,Bekasi,Jawa Barat,"4,1",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,1","0,2",226530,45306,3
+TRX7068406,22/10/2020,52192,Kimia Farma - Apotek,Karawang,Jawa Barat,"4,2",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,14","0,2",216462,"43292,4",3
+TRX8802591,23/04/2020,51033,Kimia Farma - Klinik-Apotek-Laboratorium,Pematangsiantar,Sumatera Utara,5,KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,04","0,2",241632,"48326,4",3
+TRX8300772,15/04/2021,78794,Kimia Farma - Klinik-Apotek-Laboratorium,Bontang,Kalimantan Timur,"4,3",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,03","0,2",244149,"48829,8",3
+TRX3879480,21/08/2023,61185,Kimia Farma - Apotek,Sibolga,Sumatera Utara,"4,4",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,09","0,2",229047,"45809,4",3
+TRX4476182,01/09/2022,98748,Kimia Farma - Klinik-Apotek-Laboratorium,Bitung,Sulawesi Utara,"4,9",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,12","0,2",221496,"44299,2",3
+TRX8104766,02/11/2021,13883,Kimia Farma - Apotek,Pariaman,Sumatera Barat,"4,7",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,07","0,2",234081,"46816,2",3
+TRX7694649,18/11/2020,69273,Kimia Farma - Klinik & Apotek,Magelang,Jawa Tengah,"4,8",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,11","0,2",224013,"44802,6",3
+TRX2225655,02/03/2023,41701,Kimia Farma - Apotek,Pekanbaru,Riau,"4,4",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,08","0,2",231564,"46312,8",3
+TRX9018875,30/09/2021,26671,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,"4,1",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,09","0,2",229047,"45809,4",3
+TRX9493388,20/02/2023,31737,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,"4,2",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,04","0,2",241632,"48326,4",3
+TRX5755039,31/07/2022,12707,Kimia Farma - Klinik & Apotek,Palu,Sulawesi Tengah,"4,5",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,05","0,2",239115,47823,3
+TRX6268119,22/05/2023,91361,Kimia Farma - Klinik & Apotek,Pematangsiantar,Sumatera Utara,"4,6",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,09","0,2",229047,"45809,4",3
+TRX5171418,17/04/2020,60964,Kimia Farma - Apotek,Pariaman,Sumatera Barat,"4,3",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,15","0,2",213945,42789,3
+TRX9765032,04/07/2020,85753,Kimia Farma - Klinik-Apotek-Laboratorium,Sukabumi,Jawa Barat,"4,4",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,06","0,2",236598,"47319,6",3
+TRX2402291,02/01/2022,32224,Kimia Farma - Klinik-Apotek-Laboratorium,Bandung,Jawa Barat,4,KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,09","0,2",229047,"45809,4",3
+TRX7724468,10/03/2023,70985,Kimia Farma - Apotek,Manado,Sulawesi Utara,"4,3",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,05","0,2",239115,47823,3
+TRX5672738,13/10/2023,85716,Kimia Farma - Apotek,Malang,Jawa Timur,5,KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,07","0,2",234081,"46816,2",3
+TRX4038081,13/06/2020,17602,Kimia Farma - Klinik-Apotek-Laboratorium,Payakumbuh,Sumatera Barat,"4,5",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,03","0,2",244149,"48829,8",3
+TRX8869596,05/12/2022,13307,Kimia Farma - Apotek,Jambi,Jambi,"4,7",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,12","0,2",221496,"44299,2",3
+TRX4334717,26/04/2020,94558,Kimia Farma - Klinik & Apotek,Mataram,Nusa Tenggara Barat,"4,9",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,11","0,2",224013,"44802,6",3
+TRX2478695,06/08/2022,90221,Kimia Farma - Klinik-Apotek-Laboratorium,Palembang,Sumatera Selatan,"4,6",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,14","0,2",216462,"43292,4",3
+TRX3480704,19/12/2022,68894,Kimia Farma - Apotek,Madiun,Jawa Timur,"4,2",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,05","0,2",239115,47823,3
+TRX5936076,01/08/2023,92922,Kimia Farma - Klinik & Apotek,Cilacap,Jawa Tengah,"4,1",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,14","0,2",216462,"43292,4",3
+TRX6060244,21/06/2020,93401,Kimia Farma - Apotek,Ambon,Maluku,"4,5",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,04","0,2",241632,"48326,4",3
+TRX5874229,28/06/2023,92475,Kimia Farma - Klinik-Apotek-Laboratorium,Yogyakarta,DI Yogyakarta,4,KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,12","0,2",221496,"44299,2",3
+TRX8226393,05/03/2023,39160,Kimia Farma - Apotek,Garut,Jawa Barat,"4,5",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,1","0,2",226530,45306,3
+TRX2150624,26/08/2020,16013,Kimia Farma - Klinik & Apotek,Pekanbaru,Riau,"4,2",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,01","0,2",249183,"49836,6",3
+TRX7553024,09/11/2020,21680,Kimia Farma - Klinik & Apotek,Ternate,Maluku Utara,"4,4",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,09","0,2",229047,"45809,4",3
+TRX3926453,15/02/2022,34393,Kimia Farma - Klinik & Apotek,Ciamis,Jawa Barat,"4,7",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,01","0,2",249183,"49836,6",3
+TRX1793777,23/02/2021,14845,Kimia Farma - Klinik-Apotek-Laboratorium,Mataram,Nusa Tenggara Barat,"4,8",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,1","0,2",226530,45306,3
+TRX6253266,26/01/2023,21754,Kimia Farma - Klinik-Apotek-Laboratorium,Pontianak,Kalimantan Barat,5,KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,06","0,2",236598,"47319,6",3
+TRX3427025,21/08/2022,51314,Kimia Farma - Klinik-Apotek-Laboratorium,Cikampek,Jawa Barat,"4,7",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,09","0,2",229047,"45809,4",3
+TRX5236759,07/07/2023,17254,Kimia Farma - Klinik-Apotek-Laboratorium,Garut,Jawa Barat,"4,5",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,13","0,2",218979,"43795,8",3
+TRX6143612,10/05/2020,91100,Kimia Farma - Klinik-Apotek-Laboratorium,Subang,Jawa Barat,"4,5",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,05","0,2",239115,47823,3
+TRX5204208,17/01/2022,53167,Kimia Farma - Klinik-Apotek-Laboratorium,Ambon,Maluku,"4,3",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,08","0,2",231564,"46312,8",3
+TRX7736375,14/07/2022,53629,Kimia Farma - Klinik-Apotek-Laboratorium,Kotamobagu,Sulawesi Utara,"4,2",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,13","0,2",218979,"43795,8",3
+TRX8714012,16/03/2021,13782,Kimia Farma - Klinik-Apotek-Laboratorium,Karawang,Jawa Barat,4,KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,11","0,2",224013,"44802,6",3
+TRX8181261,05/04/2022,83839,Kimia Farma - Apotek,Langsa,Aceh,"4,9",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,02","0,2",246666,"49333,2",3
+TRX8835408,01/07/2021,78874,Kimia Farma - Klinik & Apotek,Tomohon,Sulawesi Utara,"4,3",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,06","0,2",236598,"47319,6",3
+TRX1213206,21/12/2022,98443,Kimia Farma - Apotek,Banda Aceh,Aceh,"4,5",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,01","0,2",249183,"49836,6",3
+TRX6186466,25/04/2023,57142,Kimia Farma - Klinik & Apotek,Purwakarta,Jawa Barat,"4,8",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,12","0,2",221496,"44299,2",3
+TRX6815036,08/08/2022,90608,Kimia Farma - Klinik & Apotek,Pematangsiantar,Sumatera Utara,"4,2",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,12","0,2",221496,"44299,2",3
+TRX9366634,13/12/2022,68853,Kimia Farma - Apotek,Subang,Jawa Barat,"4,5",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,06","0,2",236598,"47319,6",3
+TRX2394957,17/01/2020,39160,Kimia Farma - Apotek,Garut,Jawa Barat,"4,5",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,12","0,2",221496,"44299,2",3
+TRX9321614,17/09/2023,62707,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,5,KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,11","0,2",224013,"44802,6",3
+TRX9754071,09/06/2022,16013,Kimia Farma - Klinik & Apotek,Pekanbaru,Riau,"4,2",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,05","0,2",239115,47823,3
+TRX6648577,31/08/2023,29294,Kimia Farma - Klinik-Apotek-Laboratorium,Ternate,Maluku Utara,"4,1",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,13","0,2",218979,"43795,8",3
+TRX9691767,13/05/2020,24223,Kimia Farma - Klinik & Apotek,Makassar,Sulawesi Selatan,"4,7",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,15","0,2",213945,42789,3
+TRX4027238,12/03/2023,64359,Kimia Farma - Klinik & Apotek,Sukabumi,Jawa Barat,"4,1",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,02","0,2",246666,"49333,2",3
+TRX3167285,26/07/2022,89035,Kimia Farma - Klinik-Apotek-Laboratorium,Cianjur,Jawa Barat,"4,6",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,15","0,2",213945,42789,3
+TRX5971792,05/04/2020,56376,Kimia Farma - Klinik-Apotek-Laboratorium,Pekanbaru,Riau,"4,2",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,04","0,2",241632,"48326,4",3
+TRX3462587,02/02/2022,34888,Kimia Farma - Klinik & Apotek,Banda Aceh,Aceh,4,KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,07","0,2",234081,"46816,2",3
+TRX3061818,09/04/2020,73978,Kimia Farma - Klinik & Apotek,Padang,Sumatera Barat,"4,8",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,06","0,2",236598,"47319,6",3
+TRX6917188,07/03/2023,99984,Kimia Farma - Klinik & Apotek,Batam,Kepulauan Riau,"4,4",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,14","0,2",216462,"43292,4",3
+TRX7858984,29/10/2021,23824,Kimia Farma - Klinik & Apotek,Pekanbaru,Riau,"4,9",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,06","0,2",236598,"47319,6",3
+TRX4287737,16/11/2020,26315,Kimia Farma - Klinik & Apotek,Pematangsiantar,Sumatera Utara,"4,6",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,05","0,2",239115,47823,3
+TRX5341035,14/05/2022,73855,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4,KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,03","0,2",244149,"48829,8",3
+TRX2705677,30/06/2023,52767,Kimia Farma - Klinik-Apotek-Laboratorium,Bandung,Jawa Barat,"4,3",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,01","0,2",249183,"49836,6",3
+TRX9698518,27/08/2023,52192,Kimia Farma - Apotek,Karawang,Jawa Barat,"4,2",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,04","0,2",241632,"48326,4",3
+TRX8020789,27/11/2022,66608,Kimia Farma - Klinik-Apotek-Laboratorium,Jakarta,DKI Jakarta,4,KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,13","0,2",218979,"43795,8",3
+TRX4408045,17/02/2023,17543,Kimia Farma - Klinik-Apotek-Laboratorium,Palu,Sulawesi Tengah,"4,4",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,03","0,2",244149,"48829,8",3
+TRX5505524,22/03/2021,37838,Kimia Farma - Klinik & Apotek,Lubuklinggau,Sumatera Selatan,"3,9",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,03","0,2",244149,"48829,8",3
+TRX9964303,03/03/2023,16527,Kimia Farma - Klinik-Apotek-Laboratorium,Balikpapan,Kalimantan Timur,"4,5",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,15","0,2",213945,42789,3
+TRX7314548,30/10/2023,99730,Kimia Farma - Klinik-Apotek-Laboratorium,Payakumbuh,Sumatera Barat,"4,7",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,0,"0,2",251700,50340,3
+TRX8648525,19/08/2020,30291,Kimia Farma - Apotek,Manado,Sulawesi Utara,"4,9",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,15","0,2",213945,42789,3
+TRX3518177,25/11/2021,94478,Kimia Farma - Klinik & Apotek,Padang Sidempuan,Sumatera Utara,"4,5",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,07","0,2",234081,"46816,2",3
+TRX2615193,08/12/2022,86997,Kimia Farma - Klinik-Apotek-Laboratorium,Pariaman,Sumatera Barat,"4,3",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,14","0,2",216462,"43292,4",3
+TRX4965812,18/07/2023,99064,Kimia Farma - Klinik-Apotek-Laboratorium,Bima,Nusa Tenggara Barat,"4,3",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,01","0,2",249183,"49836,6",3
+TRX7181035,01/01/2021,90897,Kimia Farma - Klinik & Apotek,Banjarmasin,Kalimantan Selatan,4,KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,04","0,2",241632,"48326,4",3
+TRX8061688,04/06/2023,37402,Kimia Farma - Apotek,Bekasi,Jawa Barat,"3,9",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,08","0,2",231564,"46312,8",3
+TRX2060334,13/04/2023,17567,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,"4,9",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,09","0,2",229047,"45809,4",3
+TRX4328671,08/11/2021,13483,Kimia Farma - Klinik & Apotek,Madiun,Jawa Timur,"4,2",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,1","0,2",226530,45306,3
+TRX7745648,16/09/2022,98345,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,"4,7",KF116,"Psycholeptics drugs, Hypnotics and sedatives drugs",251700,"0,02","0,2",246666,"49333,2",3
+TRX2573282,07/12/2020,69823,Kimia Farma - Klinik-Apotek-Laboratorium,Denpasar,Bali,"4,5",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,06","0,1",6016,"601,6",3
+TRX5185611,07/09/2022,55402,Kimia Farma - Klinik-Apotek-Laboratorium,Purwakarta,Jawa Barat,"4,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,11","0,1",5696,"569,6",3
+TRX9301167,18/10/2022,93763,Kimia Farma - Klinik-Apotek-Laboratorium,Banjarmasin,Kalimantan Selatan,"4,8",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,11","0,1",5696,"569,6",3
+TRX7040548,12/09/2023,81451,Kimia Farma - Apotek,Probolinggo,Jawa Timur,"4,1",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,03","0,1",6208,"620,8",3
+TRX3664112,28/01/2023,84834,Kimia Farma - Klinik-Apotek-Laboratorium,Ternate,Maluku Utara,"4,2",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,05","0,1",6080,608,3
+TRX7107036,03/10/2022,56257,Kimia Farma - Klinik-Apotek-Laboratorium,Subang,Jawa Barat,"3,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,14","0,1",5504,"550,4",3
+TRX7763090,19/02/2022,93689,Kimia Farma - Klinik & Apotek,Malang,Jawa Timur,"4,8",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,02","0,1",6272,"627,2",3
+TRX3201888,28/05/2022,49403,Kimia Farma - Apotek,Kuningan,Jawa Barat,"3,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,1",5888,"588,8",3
+TRX9042041,13/03/2023,91503,Kimia Farma - Apotek,Solok,Sumatera Barat,"4,1",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,15","0,1",5440,544,3
+TRX8442400,14/07/2021,49902,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,2",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,15","0,1",5440,544,3
+TRX7830103,07/10/2021,61064,Kimia Farma - Klinik-Apotek-Laboratorium,Surabaya,Jawa Timur,"4,2",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,1",5632,"563,2",3
+TRX5764596,14/09/2021,80525,Kimia Farma - Apotek,Subang,Jawa Barat,"4,1",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,06","0,1",6016,"601,6",3
+TRX1929573,10/05/2021,87583,Kimia Farma - Apotek,Surabaya,Jawa Timur,"4,6",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,02","0,1",6272,"627,2",3
+TRX9689394,24/05/2022,31737,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,"4,2",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,09","0,1",5824,"582,4",3
+TRX2046425,08/06/2023,41375,Kimia Farma - Klinik & Apotek,Pontianak,Kalimantan Barat,"4,3",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,07","0,1",5952,"595,2",3
+TRX9747893,31/10/2022,96742,Kimia Farma - Apotek,Garut,Jawa Barat,"4,4",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,1",5888,"588,8",3
+TRX4029745,23/05/2021,86546,Kimia Farma - Klinik & Apotek,Pematangsiantar,Sumatera Utara,"4,5",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,02","0,1",6272,"627,2",3
+TRX6949500,25/05/2020,16033,Kimia Farma - Klinik & Apotek,Garut,Jawa Barat,"3,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,03","0,1",6208,"620,8",3
+TRX8245855,05/05/2023,31337,Kimia Farma - Klinik-Apotek-Laboratorium,Deli Serdang,Sumatera Utara,"4,4",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,1",6144,"614,4",3
+TRX4720502,04/05/2022,42753,Kimia Farma - Klinik-Apotek-Laboratorium,Sukabumi,Jawa Barat,"4,8",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,06","0,1",6016,"601,6",3
+TRX6958325,13/04/2023,59955,Kimia Farma - Apotek,Madiun,Jawa Timur,"4,7",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,06","0,1",6016,"601,6",3
+TRX3922671,19/02/2023,64436,Kimia Farma - Klinik-Apotek-Laboratorium,Deli Serdang,Sumatera Utara,"4,5",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,1",5888,"588,8",3
+TRX4328538,04/07/2020,46337,Kimia Farma - Klinik & Apotek,Banjarmasin,Kalimantan Selatan,"4,4",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,01","0,1",6336,"633,6",3
+TRX6509016,19/12/2023,53822,Kimia Farma - Klinik-Apotek-Laboratorium,Manado,Sulawesi Utara,"4,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,1",5632,"563,2",3
+TRX6743681,10/12/2023,42584,Kimia Farma - Klinik & Apotek,Bima,Nusa Tenggara Barat,"4,2",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,01","0,1",6336,"633,6",3
+TRX4873570,11/02/2020,39326,Kimia Farma - Klinik & Apotek,Lubuklinggau,Sumatera Selatan,"4,4",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,05","0,1",6080,608,3
+TRX3660001,10/03/2023,27840,Kimia Farma - Apotek,Denpasar,Bali,"4,3",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,15","0,1",5440,544,3
+TRX2573930,24/01/2020,30563,Kimia Farma - Klinik & Apotek,Purwakarta,Jawa Barat,"3,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,1",6400,640,3
+TRX5846269,26/03/2021,48635,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,"4,3",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,1","0,1",5760,576,3
+TRX5022623,07/06/2020,13262,Kimia Farma - Klinik-Apotek-Laboratorium,Sukabumi,Jawa Barat,"4,7",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,1","0,1",5760,576,3
+TRX2070507,16/03/2020,25069,Kimia Farma - Klinik-Apotek-Laboratorium,Purwakarta,Jawa Barat,"4,6",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,06","0,1",6016,"601,6",3
+TRX2016957,02/10/2022,15338,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,"3,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,13","0,1",5568,"556,8",3
+TRX1081072,06/11/2020,41125,Kimia Farma - Klinik & Apotek,Padang,Sumatera Barat,"4,1",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,09","0,1",5824,"582,4",3
+TRX5129760,04/04/2022,36412,Kimia Farma - Klinik & Apotek,Pariaman,Sumatera Barat,"4,7",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,1","0,1",5760,576,3
+TRX8523582,15/08/2020,53876,Kimia Farma - Klinik-Apotek-Laboratorium,Pangkalpinang,Bangka Belitung,"4,2",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,09","0,1",5824,"582,4",3
+TRX3033289,06/02/2022,96005,Kimia Farma - Klinik-Apotek-Laboratorium,Subang,Jawa Barat,4,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,1","0,1",5760,576,3
+TRX7867555,30/10/2021,98676,Kimia Farma - Apotek,Malang,Jawa Timur,"4,4",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,14","0,1",5504,"550,4",3
+TRX9645209,11/09/2020,13262,Kimia Farma - Klinik-Apotek-Laboratorium,Sukabumi,Jawa Barat,"4,7",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,01","0,1",6336,"633,6",3
+TRX5587971,09/10/2020,76684,Kimia Farma - Klinik & Apotek,Yogyakarta,DI Yogyakarta,"4,1",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,1",6400,640,3
+TRX2098965,02/02/2023,63163,Kimia Farma - Klinik-Apotek-Laboratorium,Lhokseumawe,Aceh,"4,6",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,1",5888,"588,8",3
+TRX2322811,08/05/2020,39388,Kimia Farma - Klinik & Apotek,Tebing Tinggi,Sumatera Utara,"4,2",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,02","0,1",6272,"627,2",3
+TRX7457059,09/03/2021,23909,Kimia Farma - Klinik & Apotek,Tasikmalaya,Jawa Barat,"4,8",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,13","0,1",5568,"556,8",3
+TRX1533830,06/11/2020,66139,Kimia Farma - Klinik & Apotek,Semarang,Jawa Tengah,"4,7",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,1",6144,"614,4",3
+TRX5942488,27/12/2023,59413,Kimia Farma - Klinik & Apotek,Denpasar,Bali,"4,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,06","0,1",6016,"601,6",3
+TRX7470772,17/05/2021,26059,Kimia Farma - Klinik & Apotek,Gorontalo,Gorontalo,"4,3",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,09","0,1",5824,"582,4",3
+TRX7610901,17/11/2023,19033,Kimia Farma - Klinik & Apotek,Denpasar,Bali,"4,5",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,02","0,1",6272,"627,2",3
+TRX9255781,31/03/2023,25876,Kimia Farma - Klinik & Apotek,Probolinggo,Jawa Timur,"4,7",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,1",6144,"614,4",3
+TRX8700558,04/03/2020,95541,Kimia Farma - Apotek,Jambi,Jambi,"4,8",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,14","0,1",5504,"550,4",3
+TRX5058100,14/06/2023,26394,Kimia Farma - Klinik-Apotek-Laboratorium,Gorontalo,Gorontalo,"4,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,1",6144,"614,4",3
+TRX1886193,17/05/2023,53421,Kimia Farma - Klinik-Apotek-Laboratorium,Ciamis,Jawa Barat,"4,3",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,1",6144,"614,4",3
+TRX9259779,25/11/2022,78882,Kimia Farma - Klinik & Apotek,Dumai,Riau,"4,1",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,13","0,1",5568,"556,8",3
+TRX5850786,02/09/2020,21410,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,"4,2",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,06","0,1",6016,"601,6",3
+TRX9913608,04/07/2023,98055,Kimia Farma - Klinik & Apotek,Bekasi,Jawa Barat,"4,8",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,01","0,1",6336,"633,6",3
+TRX1682016,28/09/2020,34519,Kimia Farma - Klinik & Apotek,Cikampek,Jawa Barat,"4,2",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,05","0,1",6080,608,3
+TRX4695204,10/11/2022,28215,Kimia Farma - Klinik & Apotek,Banda Aceh,Aceh,"4,4",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,03","0,1",6208,"620,8",3
+TRX1650033,05/02/2020,68616,Kimia Farma - Klinik & Apotek,Purwakarta,Jawa Barat,"4,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,05","0,1",6080,608,3
+TRX4888115,18/05/2020,56801,Kimia Farma - Apotek,Subang,Jawa Barat,5,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,13","0,1",5568,"556,8",3
+TRX8219128,06/08/2021,63411,Kimia Farma - Klinik & Apotek,Magelang,Jawa Tengah,"4,6",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,1",5632,"563,2",3
+TRX6156866,25/10/2021,40344,Kimia Farma - Klinik-Apotek-Laboratorium,Bekasi,Jawa Barat,5,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,09","0,1",5824,"582,4",3
+TRX5739212,06/01/2023,53877,Kimia Farma - Klinik & Apotek,Ciamis,Jawa Barat,"4,2",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,14","0,1",5504,"550,4",3
+TRX9938138,24/03/2022,45962,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,4",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,1",6144,"614,4",3
+TRX8100797,12/12/2022,88089,Kimia Farma - Apotek,Indramayu,Jawa Barat,"4,1",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,01","0,1",6336,"633,6",3
+TRX2155530,05/03/2021,83048,Kimia Farma - Klinik-Apotek-Laboratorium,Bogor,Jawa Barat,"4,3",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,1",5632,"563,2",3
+TRX4868824,16/06/2022,18280,Kimia Farma - Klinik & Apotek,Yogyakarta,DI Yogyakarta,"4,8",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,15","0,1",5440,544,3
+TRX8146062,12/12/2023,71859,Kimia Farma - Klinik-Apotek-Laboratorium,Padang,Sumatera Barat,"4,3",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,06","0,1",6016,"601,6",3
+TRX1235478,01/01/2021,88378,Kimia Farma - Klinik & Apotek,Pematangsiantar,Sumatera Utara,"4,6",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,1",5888,"588,8",3
+TRX9838975,09/03/2020,21060,Kimia Farma - Klinik-Apotek-Laboratorium,Semarang,Jawa Tengah,"3,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,15","0,1",5440,544,3
+TRX6225024,26/01/2022,80892,Kimia Farma - Klinik & Apotek,Gorontalo,Gorontalo,"4,6",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,07","0,1",5952,"595,2",3
+TRX7182590,01/12/2022,66593,Kimia Farma - Klinik & Apotek,Bandung,Jawa Barat,"4,8",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,03","0,1",6208,"620,8",3
+TRX6877722,01/09/2021,26125,Kimia Farma - Klinik & Apotek,Denpasar,Bali,"4,6",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,05","0,1",6080,608,3
+TRX7503911,30/10/2020,37402,Kimia Farma - Apotek,Bekasi,Jawa Barat,"3,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,1",6144,"614,4",3
+TRX3330842,19/09/2023,37012,Kimia Farma - Apotek,Bandung,Jawa Barat,"4,8",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,07","0,1",5952,"595,2",3
+TRX8998456,24/06/2020,60201,Kimia Farma - Klinik-Apotek-Laboratorium,Garut,Jawa Barat,"4,1",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,09","0,1",5824,"582,4",3
+TRX9595442,22/11/2021,81810,Kimia Farma - Klinik & Apotek,Bima,Nusa Tenggara Barat,"4,4",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,13","0,1",5568,"556,8",3
+TRX8570486,15/05/2022,66939,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,4,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,1",6144,"614,4",3
+TRX3174156,30/10/2020,73008,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,5,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,1",5888,"588,8",3
+TRX7030319,30/05/2022,33796,Kimia Farma - Klinik & Apotek,Subang,Jawa Barat,"4,5",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,13","0,1",5568,"556,8",3
+TRX4704926,01/08/2020,93864,Kimia Farma - Klinik-Apotek-Laboratorium,Gorontalo,Gorontalo,"4,5",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,09","0,1",5824,"582,4",3
+TRX9992022,21/11/2022,95541,Kimia Farma - Apotek,Jambi,Jambi,"4,8",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,07","0,1",5952,"595,2",3
+TRX1664365,22/01/2023,62756,Kimia Farma - Klinik & Apotek,Kendari,Sulawesi Tenggara,4,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,05","0,1",6080,608,3
+TRX8250295,09/10/2021,51338,Kimia Farma - Klinik & Apotek,Pekanbaru,Riau,4,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,1",6144,"614,4",3
+TRX6839332,06/08/2020,63116,Kimia Farma - Klinik-Apotek-Laboratorium,Ciamis,Jawa Barat,"4,7",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,15","0,1",5440,544,3
+TRX4410851,29/12/2020,94264,Kimia Farma - Klinik-Apotek-Laboratorium,Banda Aceh,Aceh,"4,2",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,05","0,1",6080,608,3
+TRX8592503,12/09/2022,46485,Kimia Farma - Klinik-Apotek-Laboratorium,Purwokerto,Jawa Tengah,"4,1",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,06","0,1",6016,"601,6",3
+TRX9431334,04/05/2023,20566,Kimia Farma - Apotek,Lhokseumawe,Aceh,4,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,1","0,1",5760,576,3
+TRX3316554,26/08/2021,37946,Kimia Farma - Apotek,Cirebon,Jawa Barat,"4,1",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,07","0,1",5952,"595,2",3
+TRX9794566,17/11/2022,95697,Kimia Farma - Klinik & Apotek,Deli Serdang,Sumatera Utara,"4,6",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,11","0,1",5696,"569,6",3
+TRX7107277,24/08/2023,59024,Kimia Farma - Klinik & Apotek,Pontianak,Kalimantan Barat,"4,2",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,1",6144,"614,4",3
+TRX3488682,24/01/2021,62661,Kimia Farma - Klinik & Apotek,Medan,Sumatera Utara,"4,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,05","0,1",6080,608,3
+TRX8626747,09/04/2023,83357,Kimia Farma - Apotek,Sukabumi,Jawa Barat,"4,2",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,13","0,1",5568,"556,8",3
+TRX8464681,19/02/2021,24143,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,13","0,1",5568,"556,8",3
+TRX3521602,04/07/2023,42584,Kimia Farma - Klinik & Apotek,Bima,Nusa Tenggara Barat,"4,2",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,1",6400,640,3
+TRX7292857,25/10/2023,31876,Kimia Farma - Klinik & Apotek,Palu,Sulawesi Tengah,"4,4",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,14","0,1",5504,"550,4",3
+TRX9885543,02/01/2022,65315,Kimia Farma - Apotek,Semarang,Jawa Tengah,4,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,11","0,1",5696,"569,6",3
+TRX3065613,20/01/2023,78489,Kimia Farma - Klinik & Apotek,Kotamobagu,Sulawesi Utara,"4,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,1",6144,"614,4",3
+TRX9347170,27/09/2022,63732,Kimia Farma - Klinik & Apotek,Tarakan,Kalimantan Utara,"4,5",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,1","0,1",5760,576,3
+TRX1982412,07/11/2022,40625,Kimia Farma - Apotek,Karawang,Jawa Barat,"4,4",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,03","0,1",6208,"620,8",3
+TRX4025875,10/09/2021,90029,Kimia Farma - Klinik-Apotek-Laboratorium,Purwokerto,Jawa Tengah,"4,3",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,1",5888,"588,8",3
+TRX4325497,11/02/2021,40682,Kimia Farma - Klinik & Apotek,Gorontalo,Gorontalo,"4,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,02","0,1",6272,"627,2",3
+TRX1603427,22/01/2020,55156,Kimia Farma - Klinik & Apotek,Ambon,Maluku,"4,6",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,14","0,1",5504,"550,4",3
+TRX1099607,26/02/2021,68853,Kimia Farma - Apotek,Subang,Jawa Barat,"4,5",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,03","0,1",6208,"620,8",3
+TRX4234482,21/12/2020,38373,Kimia Farma - Klinik & Apotek,Bandung,Jawa Barat,4,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,1",5632,"563,2",3
+TRX5314910,27/09/2023,18533,Kimia Farma - Klinik-Apotek-Laboratorium,Cirebon,Jawa Barat,"4,7",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,06","0,1",6016,"601,6",3
+TRX3176988,19/03/2022,11960,Kimia Farma - Klinik-Apotek-Laboratorium,Sorong,Papua Barat,"4,3",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,14","0,1",5504,"550,4",3
+TRX8559020,28/09/2022,75720,Kimia Farma - Apotek,Sukabumi,Jawa Barat,"4,5",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,14","0,1",5504,"550,4",3
+TRX3331489,12/01/2021,69800,Kimia Farma - Apotek,Payakumbuh,Sumatera Barat,"4,7",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,1","0,1",5760,576,3
+TRX7421909,04/08/2022,92936,Kimia Farma - Klinik & Apotek,Ciamis,Jawa Barat,"4,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,13","0,1",5568,"556,8",3
+TRX5247715,19/12/2021,40347,Kimia Farma - Klinik-Apotek-Laboratorium,Banjarmasin,Kalimantan Selatan,"4,5",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,1","0,1",5760,576,3
+TRX8481450,27/02/2022,22132,Kimia Farma - Klinik & Apotek,Sukabumi,Jawa Barat,"4,4",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,11","0,1",5696,"569,6",3
+TRX7361496,17/12/2020,33502,Kimia Farma - Klinik & Apotek,Padang,Sumatera Barat,"3,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,06","0,1",6016,"601,6",3
+TRX5342806,29/09/2021,61626,Kimia Farma - Klinik-Apotek-Laboratorium,Tarakan,Kalimantan Utara,"4,8",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,1",5632,"563,2",3
+TRX9652885,31/01/2020,66025,Kimia Farma - Klinik-Apotek-Laboratorium,Surabaya,Jawa Timur,"4,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,09","0,1",5824,"582,4",3
+TRX9105002,05/10/2022,27470,Kimia Farma - Klinik & Apotek,Tangerang,Banten,"4,6",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,14","0,1",5504,"550,4",3
+TRX1045474,03/11/2023,68313,Kimia Farma - Apotek,Palembang,Sumatera Selatan,"4,8",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,05","0,1",6080,608,3
+TRX3860019,08/05/2023,88478,Kimia Farma - Klinik-Apotek-Laboratorium,Garut,Jawa Barat,"4,2",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,14","0,1",5504,"550,4",3
+TRX7020682,25/12/2023,72786,Kimia Farma - Klinik-Apotek-Laboratorium,Purwakarta,Jawa Barat,"4,5",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,03","0,1",6208,"620,8",3
+TRX3945848,25/08/2020,14497,Kimia Farma - Klinik & Apotek,Purwakarta,Jawa Barat,"3,9",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,1",5888,"588,8",3
+TRX5598940,11/01/2021,92127,Kimia Farma - Klinik & Apotek,Jakarta,DKI Jakarta,"4,7",KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,14","0,1",5504,"550,4",3
+TRX1736349,15/07/2022,33317,Kimia Farma - Klinik-Apotek-Laboratorium,Balikpapan,Kalimantan Timur,"4,2",KF134,Antihistamines for systemic use,832800,"0,03","0,3",807816,"242344,8",3
+TRX9838107,18/05/2022,85280,Kimia Farma - Apotek,Banda Aceh,Aceh,4,KF134,Antihistamines for systemic use,832800,"0,04","0,3",799488,"239846,4",3
+TRX6884832,17/11/2021,95669,Kimia Farma - Klinik-Apotek-Laboratorium,Malang,Jawa Timur,"4,8",KF134,Antihistamines for systemic use,832800,"0,02","0,3",816144,"244843,2",3
+TRX5958779,25/09/2023,38307,Kimia Farma - Klinik-Apotek-Laboratorium,Jakarta,DKI Jakarta,"4,2",KF134,Antihistamines for systemic use,832800,"0,02","0,3",816144,"244843,2",3
+TRX4751265,08/06/2023,64436,Kimia Farma - Klinik-Apotek-Laboratorium,Deli Serdang,Sumatera Utara,"4,5",KF134,Antihistamines for systemic use,832800,"0,1","0,3",749520,224856,3
+TRX6310594,31/10/2021,30408,Kimia Farma - Klinik-Apotek-Laboratorium,Pariaman,Sumatera Barat,"3,9",KF134,Antihistamines for systemic use,832800,"0,01","0,3",824472,"247341,6",3
+TRX5114546,31/07/2023,85753,Kimia Farma - Klinik-Apotek-Laboratorium,Sukabumi,Jawa Barat,"4,4",KF134,Antihistamines for systemic use,832800,"0,04","0,3",799488,"239846,4",3
+TRX4183922,21/11/2020,37946,Kimia Farma - Apotek,Cirebon,Jawa Barat,"4,1",KF134,Antihistamines for systemic use,832800,"0,07","0,3",774504,"232351,2",3
+TRX6136258,19/12/2023,14469,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,5,KF134,Antihistamines for systemic use,832800,"0,01","0,3",824472,"247341,6",3
+TRX8241290,06/08/2021,11960,Kimia Farma - Klinik-Apotek-Laboratorium,Sorong,Papua Barat,"4,3",KF134,Antihistamines for systemic use,832800,"0,03","0,3",807816,"242344,8",3
+TRX4397172,06/10/2020,80748,Kimia Farma - Klinik & Apotek,Makassar,Sulawesi Selatan,"4,6",KF134,Antihistamines for systemic use,832800,"0,01","0,3",824472,"247341,6",3
+TRX2620939,23/09/2021,48161,Kimia Farma - Klinik-Apotek-Laboratorium,Tarakan,Kalimantan Utara,"4,5",KF134,Antihistamines for systemic use,832800,"0,03","0,3",807816,"242344,8",3
+TRX2787385,08/08/2021,66939,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,4,KF134,Antihistamines for systemic use,832800,"0,09","0,3",757848,"227354,4",3
+TRX5329859,14/11/2022,18465,Kimia Farma - Klinik-Apotek-Laboratorium,Tebing Tinggi,Sumatera Utara,4,KF134,Antihistamines for systemic use,832800,"0,04","0,3",799488,"239846,4",3
+TRX6222199,06/08/2020,83975,Kimia Farma - Klinik & Apotek,Banjarmasin,Kalimantan Selatan,4,KF134,Antihistamines for systemic use,832800,"0,04","0,3",799488,"239846,4",3
+TRX4054189,11/08/2020,83939,Kimia Farma - Klinik-Apotek-Laboratorium,Kendari,Sulawesi Tenggara,"4,1",KF134,Antihistamines for systemic use,832800,"0,01","0,3",824472,"247341,6",3
+TRX9089450,25/11/2023,13531,Kimia Farma - Klinik & Apotek,Bontang,Kalimantan Timur,4,KF134,Antihistamines for systemic use,832800,"0,1","0,3",749520,224856,3
+TRX9555369,04/06/2023,73954,Kimia Farma - Klinik-Apotek-Laboratorium,Payakumbuh,Sumatera Barat,"4,4",KF134,Antihistamines for systemic use,832800,"0,07","0,3",774504,"232351,2",3
+TRX8992450,05/06/2023,66565,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"3,9",KF134,Antihistamines for systemic use,832800,"0,05","0,3",791160,237348,3
+TRX4537568,11/11/2022,20598,Kimia Farma - Apotek,Bitung,Sulawesi Utara,"4,4",KF134,Antihistamines for systemic use,832800,"0,1","0,3",749520,224856,3
+TRX1877786,14/05/2023,11999,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,1",KF134,Antihistamines for systemic use,832800,"0,14","0,3",716208,"214862,4",3
+TRX6941122,29/05/2021,76512,Kimia Farma - Klinik & Apotek,Bogor,Jawa Barat,"4,7",KF134,Antihistamines for systemic use,832800,0,"0,3",832800,249840,3
+TRX3850474,08/11/2021,85216,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4,KF134,Antihistamines for systemic use,832800,"0,03","0,3",807816,"242344,8",3
+TRX5670926,16/10/2022,33069,Kimia Farma - Apotek,Garut,Jawa Barat,"3,9",KF134,Antihistamines for systemic use,832800,"0,02","0,3",816144,"244843,2",3
+TRX6287027,08/01/2020,34888,Kimia Farma - Klinik & Apotek,Banda Aceh,Aceh,4,KF134,Antihistamines for systemic use,832800,"0,04","0,3",799488,"239846,4",3
+TRX9330215,21/01/2023,29922,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,"3,9",KF134,Antihistamines for systemic use,832800,"0,08","0,3",766176,"229852,8",3
+TRX9378760,29/11/2020,29810,Kimia Farma - Klinik-Apotek-Laboratorium,Kendari,Sulawesi Tenggara,"4,8",KF134,Antihistamines for systemic use,832800,"0,06","0,3",782832,"234849,6",3
+TRX2653076,30/09/2020,40552,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,"4,6",KF134,Antihistamines for systemic use,832800,"0,03","0,3",807816,"242344,8",3
+TRX7562336,05/07/2022,47413,Kimia Farma - Klinik & Apotek,Garut,Jawa Barat,"4,4",KF134,Antihistamines for systemic use,832800,"0,11","0,3",741192,"222357,6",3
+TRX2453856,25/09/2023,78882,Kimia Farma - Klinik & Apotek,Dumai,Riau,"4,1",KF134,Antihistamines for systemic use,832800,"0,1","0,3",749520,224856,3
+TRX6632654,14/09/2023,40462,Kimia Farma - Klinik-Apotek-Laboratorium,Cikampek,Jawa Barat,"4,9",KF134,Antihistamines for systemic use,832800,"0,03","0,3",807816,"242344,8",3
+TRX8431557,22/12/2023,82749,Kimia Farma - Klinik-Apotek-Laboratorium,Bekasi,Jawa Barat,"4,4",KF134,Antihistamines for systemic use,832800,"0,1","0,3",749520,224856,3
+TRX8175529,14/10/2023,71378,Kimia Farma - Apotek,Gorontalo,Gorontalo,"4,5",KF134,Antihistamines for systemic use,832800,"0,1","0,3",749520,224856,3
+TRX4804979,17/01/2023,11640,Kimia Farma - Apotek,Probolinggo,Jawa Timur,"4,2",KF134,Antihistamines for systemic use,832800,"0,11","0,3",741192,"222357,6",3
+TRX1831640,28/03/2022,59571,Kimia Farma - Klinik-Apotek-Laboratorium,Tarakan,Kalimantan Utara,"4,9",KF134,Antihistamines for systemic use,832800,"0,03","0,3",807816,"242344,8",3
+TRX8861702,08/12/2021,98345,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,"4,7",KF134,Antihistamines for systemic use,832800,"0,1","0,3",749520,224856,3
+TRX6146879,18/09/2023,33961,Kimia Farma - Klinik & Apotek,Palangkaraya,Kalimantan Tengah,"4,1",KF134,Antihistamines for systemic use,832800,"0,13","0,3",724536,"217360,8",3
+TRX9325943,14/04/2020,82583,Kimia Farma - Klinik-Apotek-Laboratorium,Tasikmalaya,Jawa Barat,"4,7",KF134,Antihistamines for systemic use,832800,"0,04","0,3",799488,"239846,4",3
+TRX9981258,31/10/2020,99977,Kimia Farma - Klinik & Apotek,Purwakarta,Jawa Barat,"4,7",KF134,Antihistamines for systemic use,832800,"0,06","0,3",782832,"234849,6",3
+TRX9486486,28/06/2021,24713,Kimia Farma - Klinik-Apotek-Laboratorium,Probolinggo,Jawa Timur,"4,1",KF134,Antihistamines for systemic use,832800,"0,03","0,3",807816,"242344,8",3
+TRX3327145,15/03/2020,50270,Kimia Farma - Apotek,Madiun,Jawa Timur,"4,5",KF134,Antihistamines for systemic use,832800,"0,14","0,3",716208,"214862,4",3
+TRX2240940,09/10/2020,58133,Kimia Farma - Klinik & Apotek,Garut,Jawa Barat,"4,7",KF134,Antihistamines for systemic use,832800,"0,06","0,3",782832,"234849,6",3
+TRX4429986,10/02/2020,27583,Kimia Farma - Apotek,Denpasar,Bali,5,KF134,Antihistamines for systemic use,832800,"0,13","0,3",724536,"217360,8",3
+TRX9055191,04/09/2021,95971,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,"4,2",KF134,Antihistamines for systemic use,832800,"0,02","0,3",816144,"244843,2",3
+TRX1018645,22/10/2023,15815,Kimia Farma - Klinik-Apotek-Laboratorium,Subang,Jawa Barat,"4,8",KF134,Antihistamines for systemic use,832800,"0,04","0,3",799488,"239846,4",3
+TRX9239101,24/10/2021,49403,Kimia Farma - Apotek,Kuningan,Jawa Barat,"3,9",KF134,Antihistamines for systemic use,832800,"0,07","0,3",774504,"232351,2",3
+TRX5101741,02/03/2023,61081,Kimia Farma - Klinik-Apotek-Laboratorium,Subang,Jawa Barat,"4,9",KF134,Antihistamines for systemic use,832800,"0,13","0,3",724536,"217360,8",3
+TRX5954134,21/04/2022,79919,Kimia Farma - Klinik & Apotek,Probolinggo,Jawa Timur,"4,9",KF134,Antihistamines for systemic use,832800,"0,06","0,3",782832,"234849,6",3
+TRX3874144,30/03/2020,49758,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,"4,7",KF134,Antihistamines for systemic use,832800,"0,06","0,3",782832,"234849,6",3
+TRX5843773,19/09/2021,48388,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,4,KF134,Antihistamines for systemic use,832800,"0,1","0,3",749520,224856,3
+TRX2579996,05/09/2022,22874,Kimia Farma - Klinik-Apotek-Laboratorium,Cilacap,Jawa Tengah,"4,9",KF134,Antihistamines for systemic use,832800,"0,14","0,3",716208,"214862,4",3
+TRX4703711,29/03/2023,87381,Kimia Farma - Klinik & Apotek,Tanjungpinang,Kepulauan Riau,4,KF134,Antihistamines for systemic use,832800,"0,14","0,3",716208,"214862,4",3
+TRX2926014,14/06/2023,17543,Kimia Farma - Klinik-Apotek-Laboratorium,Palu,Sulawesi Tengah,"4,4",KF134,Antihistamines for systemic use,832800,"0,04","0,3",799488,"239846,4",3
+TRX4978698,19/09/2023,98300,Kimia Farma - Apotek,Subang,Jawa Barat,"4,9",KF134,Antihistamines for systemic use,832800,"0,01","0,3",824472,"247341,6",3
+TRX5307715,04/03/2020,34829,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,"4,5",KF134,Antihistamines for systemic use,832800,"0,15","0,3",707880,212364,3
+TRX9381258,10/03/2020,12057,Kimia Farma - Klinik & Apotek,Ternate,Maluku Utara,"4,6",KF134,Antihistamines for systemic use,832800,"0,12","0,3",732864,"219859,2",3
+TRX3382795,21/09/2023,50787,Kimia Farma - Klinik & Apotek,Mataram,Nusa Tenggara Barat,"4,4",KF134,Antihistamines for systemic use,832800,"0,04","0,3",799488,"239846,4",3
+TRX2250272,10/03/2020,44522,Kimia Farma - Klinik & Apotek,Langsa,Aceh,"4,6",KF134,Antihistamines for systemic use,832800,"0,15","0,3",707880,212364,3
+TRX8858212,28/04/2020,59416,Kimia Farma - Klinik & Apotek,Tangerang,Banten,"4,3",KF134,Antihistamines for systemic use,832800,"0,1","0,3",749520,224856,3
+TRX5055555,24/10/2020,12558,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,"4,4",KF134,Antihistamines for systemic use,832800,"0,11","0,3",741192,"222357,6",3
+TRX2091286,29/07/2021,18508,Kimia Farma - Klinik & Apotek,Magelang,Jawa Tengah,4,KF134,Antihistamines for systemic use,832800,"0,09","0,3",757848,"227354,4",3
+TRX1618741,19/02/2022,46335,Kimia Farma - Klinik & Apotek,Tanjungpinang,Kepulauan Riau,"4,8",KF134,Antihistamines for systemic use,832800,"0,03","0,3",807816,"242344,8",3
+TRX9279297,05/06/2020,41701,Kimia Farma - Apotek,Pekanbaru,Riau,"4,4",KF134,Antihistamines for systemic use,832800,"0,1","0,3",749520,224856,3
+TRX9995612,04/01/2023,81121,Kimia Farma - Klinik-Apotek-Laboratorium,Dumai,Riau,"4,2",KF134,Antihistamines for systemic use,832800,"0,13","0,3",724536,"217360,8",3
+TRX2042089,15/05/2023,34854,Kimia Farma - Klinik-Apotek-Laboratorium,Probolinggo,Jawa Timur,"4,4",KF134,Antihistamines for systemic use,832800,"0,1","0,3",749520,224856,3
+TRX4870404,07/09/2021,23824,Kimia Farma - Klinik & Apotek,Pekanbaru,Riau,"4,9",KF134,Antihistamines for systemic use,832800,"0,01","0,3",824472,"247341,6",3
+TRX6660622,23/05/2020,28923,Kimia Farma - Klinik & Apotek,Purwakarta,Jawa Barat,"4,2",KF134,Antihistamines for systemic use,832800,"0,09","0,3",757848,"227354,4",3
+TRX1857452,18/08/2023,48130,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,7",KF134,Antihistamines for systemic use,832800,"0,14","0,3",716208,"214862,4",3
+TRX3781161,05/03/2021,17476,Kimia Farma - Apotek,Jambi,Jambi,"4,5",KF134,Antihistamines for systemic use,832800,"0,14","0,3",716208,"214862,4",3
+TRX5057624,20/07/2020,26358,Kimia Farma - Klinik-Apotek-Laboratorium,Dumai,Riau,"4,7",KF134,Antihistamines for systemic use,832800,"0,06","0,3",782832,"234849,6",3
+TRX7835041,08/02/2020,65740,Kimia Farma - Klinik-Apotek-Laboratorium,Garut,Jawa Barat,4,KF134,Antihistamines for systemic use,832800,"0,11","0,3",741192,"222357,6",3
+TRX6972860,09/11/2022,82202,Kimia Farma - Apotek,Jambi,Jambi,"4,1",KF134,Antihistamines for systemic use,832800,"0,14","0,3",716208,"214862,4",3
+TRX4549241,28/05/2023,25923,Kimia Farma - Klinik & Apotek,Medan,Sumatera Utara,"4,8",KF134,Antihistamines for systemic use,832800,"0,01","0,3",824472,"247341,6",3
+TRX9961107,28/02/2021,86758,Kimia Farma - Klinik & Apotek,Pontianak,Kalimantan Barat,4,KF134,Antihistamines for systemic use,832800,"0,1","0,3",749520,224856,3
+TRX3561700,25/09/2021,31576,Kimia Farma - Klinik-Apotek-Laboratorium,Pariaman,Sumatera Barat,"4,4",KF134,Antihistamines for systemic use,832800,"0,04","0,3",799488,"239846,4",3
+TRX6364916,28/11/2022,20102,Kimia Farma - Apotek,Pekanbaru,Riau,"4,3",KF134,Antihistamines for systemic use,832800,"0,08","0,3",766176,"229852,8",3
+TRX4112213,16/07/2023,14433,Kimia Farma - Apotek,Gorontalo,Gorontalo,4,KF134,Antihistamines for systemic use,832800,"0,01","0,3",824472,"247341,6",3
+TRX3126072,05/05/2021,54304,Kimia Farma - Klinik & Apotek,Subang,Jawa Barat,"4,1",KF134,Antihistamines for systemic use,832800,"0,09","0,3",757848,"227354,4",3
+TRX1004718,27/09/2020,17863,Kimia Farma - Apotek,Gorontalo,Gorontalo,"4,7",KF134,Antihistamines for systemic use,832800,"0,13","0,3",724536,"217360,8",3
+TRX6244626,12/01/2020,28795,Kimia Farma - Klinik-Apotek-Laboratorium,Magelang,Jawa Tengah,4,KF134,Antihistamines for systemic use,832800,"0,13","0,3",724536,"217360,8",3
+TRX1014262,12/06/2020,23248,Kimia Farma - Apotek,Bima,Nusa Tenggara Barat,"4,1",KF134,Antihistamines for systemic use,832800,"0,05","0,3",791160,237348,3
+TRX1696256,07/11/2022,28211,Kimia Farma - Klinik-Apotek-Laboratorium,Medan,Sumatera Utara,"4,6",KF134,Antihistamines for systemic use,832800,"0,08","0,3",766176,"229852,8",3
+TRX7021196,03/04/2020,17125,Kimia Farma - Klinik-Apotek-Laboratorium,Subang,Jawa Barat,"4,5",KF134,Antihistamines for systemic use,832800,"0,09","0,3",757848,"227354,4",3
+TRX8591472,06/09/2023,15545,Kimia Farma - Klinik & Apotek,Surabaya,Jawa Timur,"4,3",KF134,Antihistamines for systemic use,832800,"0,14","0,3",716208,"214862,4",3
+TRX6083853,01/06/2022,68465,Kimia Farma - Klinik-Apotek-Laboratorium,Madiun,Jawa Timur,"4,5",KF134,Antihistamines for systemic use,832800,"0,12","0,3",732864,"219859,2",3
+TRX3003659,29/07/2021,55386,Kimia Farma - Apotek,Cilacap,Jawa Tengah,"4,3",KF134,Antihistamines for systemic use,832800,"0,1","0,3",749520,224856,3
+TRX1974295,07/05/2022,40282,Kimia Farma - Klinik & Apotek,Pekanbaru,Riau,"4,5",KF134,Antihistamines for systemic use,832800,"0,04","0,3",799488,"239846,4",3
+TRX3376957,12/04/2023,26394,Kimia Farma - Klinik-Apotek-Laboratorium,Gorontalo,Gorontalo,"4,9",KF134,Antihistamines for systemic use,832800,"0,03","0,3",807816,"242344,8",3
+TRX2193603,15/05/2020,87344,Kimia Farma - Apotek,Semarang,Jawa Tengah,"4,5",KF134,Antihistamines for systemic use,832800,"0,13","0,3",724536,"217360,8",3
+TRX2383130,10/10/2020,62913,Kimia Farma - Apotek,Palembang,Sumatera Selatan,"4,5",KF134,Antihistamines for systemic use,832800,"0,01","0,3",824472,"247341,6",3
+TRX4477707,18/06/2023,76953,Kimia Farma - Klinik & Apotek,Magelang,Jawa Tengah,4,KF134,Antihistamines for systemic use,832800,"0,07","0,3",774504,"232351,2",3
+TRX3899679,07/11/2022,60036,Kimia Farma - Apotek,Batam,Kepulauan Riau,"4,9",KF134,Antihistamines for systemic use,832800,"0,07","0,3",774504,"232351,2",3
+TRX6644510,29/07/2021,55402,Kimia Farma - Klinik-Apotek-Laboratorium,Purwakarta,Jawa Barat,"4,9",KF134,Antihistamines for systemic use,832800,"0,09","0,3",757848,"227354,4",3
+TRX5199613,06/04/2021,58802,Kimia Farma - Klinik-Apotek-Laboratorium,Mataram,Nusa Tenggara Barat,"4,3",KF134,Antihistamines for systemic use,832800,"0,03","0,3",807816,"242344,8",3
+TRX2234931,06/08/2021,85807,Kimia Farma - Klinik-Apotek-Laboratorium,Palembang,Sumatera Selatan,"4,9",KF134,Antihistamines for systemic use,832800,"0,05","0,3",791160,237348,3
+TRX4834876,19/03/2022,14957,Kimia Farma - Klinik & Apotek,Ciamis,Jawa Barat,"4,8",KF134,Antihistamines for systemic use,832800,"0,06","0,3",782832,"234849,6",3
+TRX3242660,21/01/2022,92475,Kimia Farma - Klinik-Apotek-Laboratorium,Yogyakarta,DI Yogyakarta,4,KF134,Antihistamines for systemic use,832800,"0,15","0,3",707880,212364,3
+TRX8276790,23/06/2021,21909,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,"4,9",KF141,Drugs for obstructive airway diseases,221100,"0,14","0,2",190146,"38029,2",3
+TRX5027118,22/09/2023,55077,Kimia Farma - Klinik-Apotek-Laboratorium,Tarakan,Kalimantan Utara,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,11","0,2",196779,"39355,8",3
+TRX7333612,25/01/2020,98041,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,"4,5",KF141,Drugs for obstructive airway diseases,221100,"0,09","0,2",201201,"40240,2",3
+TRX4108872,19/09/2021,97234,Kimia Farma - Klinik-Apotek-Laboratorium,Ciamis,Jawa Barat,"4,9",KF141,Drugs for obstructive airway diseases,221100,"0,03","0,2",214467,"42893,4",3
+TRX3203581,06/10/2023,67306,Kimia Farma - Klinik & Apotek,Semarang,Jawa Tengah,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,06","0,2",207834,"41566,8",3
+TRX6057326,25/08/2021,12069,Kimia Farma - Klinik & Apotek,Padang,Sumatera Barat,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,11","0,2",196779,"39355,8",3
+TRX7421331,10/10/2020,93257,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,"4,6",KF141,Drugs for obstructive airway diseases,221100,"0,06","0,2",207834,"41566,8",3
+TRX4057782,19/07/2021,69213,Kimia Farma - Klinik-Apotek-Laboratorium,Padang,Sumatera Barat,"4,8",KF141,Drugs for obstructive airway diseases,221100,"0,13","0,2",192357,"38471,4",3
+TRX2456229,08/03/2022,64264,Kimia Farma - Klinik-Apotek-Laboratorium,Manado,Sulawesi Utara,"4,4",KF141,Drugs for obstructive airway diseases,221100,"0,06","0,2",207834,"41566,8",3
+TRX6787924,04/02/2021,96803,Kimia Farma - Klinik & Apotek,Ciamis,Jawa Barat,"4,9",KF141,Drugs for obstructive airway diseases,221100,"0,14","0,2",190146,"38029,2",3
+TRX9152257,31/05/2021,89265,Kimia Farma - Klinik & Apotek,Makassar,Sulawesi Selatan,"4,9",KF141,Drugs for obstructive airway diseases,221100,"0,14","0,2",190146,"38029,2",3
+TRX6523818,05/09/2020,39130,Kimia Farma - Klinik-Apotek-Laboratorium,Yogyakarta,DI Yogyakarta,"4,7",KF141,Drugs for obstructive airway diseases,221100,"0,11","0,2",196779,"39355,8",3
+TRX5063261,28/09/2021,24592,Kimia Farma - Apotek,Ciamis,Jawa Barat,"3,9",KF141,Drugs for obstructive airway diseases,221100,"0,06","0,2",207834,"41566,8",3
+TRX1662627,30/11/2021,38172,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,5,KF141,Drugs for obstructive airway diseases,221100,0,"0,2",221100,44220,3
+TRX6955719,25/04/2020,25432,Kimia Farma - Apotek,Cirebon,Jawa Barat,"4,2",KF141,Drugs for obstructive airway diseases,221100,"0,05","0,2",210045,42009,3
+TRX4858051,29/10/2020,37158,Kimia Farma - Klinik-Apotek-Laboratorium,Semarang,Jawa Tengah,"4,2",KF141,Drugs for obstructive airway diseases,221100,"0,05","0,2",210045,42009,3
+TRX2885289,12/01/2021,62295,Kimia Farma - Klinik & Apotek,Probolinggo,Jawa Timur,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,1","0,2",198990,39798,3
+TRX7369657,30/07/2023,21155,Kimia Farma - Klinik-Apotek-Laboratorium,Magelang,Jawa Tengah,4,KF141,Drugs for obstructive airway diseases,221100,"0,01","0,2",218889,"43777,8",3
+TRX1079654,14/09/2022,31016,Kimia Farma - Klinik & Apotek,Purwakarta,Jawa Barat,"4,4",KF141,Drugs for obstructive airway diseases,221100,"0,1","0,2",198990,39798,3
+TRX7580867,04/06/2022,85042,Kimia Farma - Klinik-Apotek-Laboratorium,Kupang,Nusa Tenggara Timur,5,KF141,Drugs for obstructive airway diseases,221100,"0,13","0,2",192357,"38471,4",3
+TRX5792870,09/09/2023,68218,Kimia Farma - Klinik-Apotek-Laboratorium,Sukabumi,Jawa Barat,"4,6",KF141,Drugs for obstructive airway diseases,221100,"0,09","0,2",201201,"40240,2",3
+TRX4180315,30/12/2022,33932,Kimia Farma - Klinik & Apotek,Jakarta,DKI Jakarta,"4,2",KF141,Drugs for obstructive airway diseases,221100,"0,01","0,2",218889,"43777,8",3
+TRX1287870,24/01/2021,47384,Kimia Farma - Klinik-Apotek-Laboratorium,Garut,Jawa Barat,"4,3",KF141,Drugs for obstructive airway diseases,221100,"0,14","0,2",190146,"38029,2",3
+TRX3551847,21/04/2022,20102,Kimia Farma - Apotek,Pekanbaru,Riau,"4,3",KF141,Drugs for obstructive airway diseases,221100,"0,02","0,2",216678,"43335,6",3
+TRX9974762,15/06/2020,33414,Kimia Farma - Klinik & Apotek,Lubuklinggau,Sumatera Selatan,4,KF141,Drugs for obstructive airway diseases,221100,"0,03","0,2",214467,"42893,4",3
+TRX3099369,15/12/2022,77855,Kimia Farma - Klinik & Apotek,Pontianak,Kalimantan Barat,"3,9",KF141,Drugs for obstructive airway diseases,221100,"0,14","0,2",190146,"38029,2",3
+TRX7611462,29/12/2022,57489,Kimia Farma - Klinik-Apotek-Laboratorium,Bandung,Jawa Barat,"4,8",KF141,Drugs for obstructive airway diseases,221100,"0,13","0,2",192357,"38471,4",3
+TRX1636354,26/08/2021,85807,Kimia Farma - Klinik-Apotek-Laboratorium,Palembang,Sumatera Selatan,"4,9",KF141,Drugs for obstructive airway diseases,221100,"0,07","0,2",205623,"41124,6",3
+TRX3032524,18/02/2021,28123,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,"4,9",KF141,Drugs for obstructive airway diseases,221100,"0,07","0,2",205623,"41124,6",3
+TRX7867405,07/11/2021,53629,Kimia Farma - Klinik-Apotek-Laboratorium,Kotamobagu,Sulawesi Utara,"4,2",KF141,Drugs for obstructive airway diseases,221100,"0,13","0,2",192357,"38471,4",3
+TRX6891104,01/05/2022,52356,Kimia Farma - Klinik & Apotek,Batam,Kepulauan Riau,4,KF141,Drugs for obstructive airway diseases,221100,"0,09","0,2",201201,"40240,2",3
+TRX9224864,08/07/2023,31604,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,"4,4",KF141,Drugs for obstructive airway diseases,221100,"0,15","0,2",187935,37587,3
+TRX6820534,06/08/2022,73969,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,12","0,2",194568,"38913,6",3
+TRX6316540,05/11/2022,59448,Kimia Farma - Klinik-Apotek-Laboratorium,Cirebon,Jawa Barat,"4,2",KF141,Drugs for obstructive airway diseases,221100,"0,03","0,2",214467,"42893,4",3
+TRX7861750,28/04/2023,63732,Kimia Farma - Klinik & Apotek,Tarakan,Kalimantan Utara,"4,5",KF141,Drugs for obstructive airway diseases,221100,"0,11","0,2",196779,"39355,8",3
+TRX7267422,16/04/2020,15418,Kimia Farma - Klinik & Apotek,Pematangsiantar,Sumatera Utara,"4,9",KF141,Drugs for obstructive airway diseases,221100,"0,02","0,2",216678,"43335,6",3
+TRX5026210,07/11/2020,47349,Kimia Farma - Klinik-Apotek-Laboratorium,Indramayu,Jawa Barat,"3,9",KF141,Drugs for obstructive airway diseases,221100,"0,08","0,2",203412,"40682,4",3
+TRX3969326,15/09/2021,79358,Kimia Farma - Klinik-Apotek-Laboratorium,Sukabumi,Jawa Barat,"4,3",KF141,Drugs for obstructive airway diseases,221100,"0,15","0,2",187935,37587,3
+TRX2648948,05/04/2022,12369,Kimia Farma - Apotek,Ciamis,Jawa Barat,"4,4",KF141,Drugs for obstructive airway diseases,221100,"0,01","0,2",218889,"43777,8",3
+TRX5469798,16/11/2023,41125,Kimia Farma - Klinik & Apotek,Padang,Sumatera Barat,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,05","0,2",210045,42009,3
+TRX2025399,09/05/2020,40462,Kimia Farma - Klinik-Apotek-Laboratorium,Cikampek,Jawa Barat,"4,9",KF141,Drugs for obstructive airway diseases,221100,"0,02","0,2",216678,"43335,6",3
+TRX2887831,29/06/2021,99554,Kimia Farma - Klinik-Apotek-Laboratorium,Garut,Jawa Barat,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,03","0,2",214467,"42893,4",3
+TRX6175329,16/09/2023,40282,Kimia Farma - Klinik & Apotek,Pekanbaru,Riau,"4,5",KF141,Drugs for obstructive airway diseases,221100,"0,04","0,2",212256,"42451,2",3
+TRX1424065,28/02/2022,45642,Kimia Farma - Apotek,Cikampek,Jawa Barat,"4,7",KF141,Drugs for obstructive airway diseases,221100,"0,06","0,2",207834,"41566,8",3
+TRX5932617,16/11/2021,81451,Kimia Farma - Apotek,Probolinggo,Jawa Timur,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,07","0,2",205623,"41124,6",3
+TRX3210740,08/10/2021,66717,Kimia Farma - Apotek,Subang,Jawa Barat,"4,2",KF141,Drugs for obstructive airway diseases,221100,"0,03","0,2",214467,"42893,4",3
+TRX7254450,25/05/2021,79232,Kimia Farma - Klinik & Apotek,Lubuklinggau,Sumatera Selatan,"4,8",KF141,Drugs for obstructive airway diseases,221100,"0,15","0,2",187935,37587,3
+TRX2639088,10/08/2022,31706,Kimia Farma - Apotek,Cirebon,Jawa Barat,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,1","0,2",198990,39798,3
+TRX8623973,05/01/2022,31233,Kimia Farma - Klinik-Apotek-Laboratorium,Bogor,Jawa Barat,"4,7",KF141,Drugs for obstructive airway diseases,221100,"0,14","0,2",190146,"38029,2",3
+TRX7746763,26/01/2023,88832,Kimia Farma - Apotek,Jakarta,DKI Jakarta,"4,2",KF141,Drugs for obstructive airway diseases,221100,"0,02","0,2",216678,"43335,6",3
+TRX9317643,04/03/2020,76684,Kimia Farma - Klinik & Apotek,Yogyakarta,DI Yogyakarta,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,03","0,2",214467,"42893,4",3
+TRX1338931,30/10/2020,67593,Kimia Farma - Klinik-Apotek-Laboratorium,Manado,Sulawesi Utara,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,03","0,2",214467,"42893,4",3
+TRX5039444,07/06/2021,53822,Kimia Farma - Klinik-Apotek-Laboratorium,Manado,Sulawesi Utara,"4,9",KF141,Drugs for obstructive airway diseases,221100,0,"0,2",221100,44220,3
+TRX4187613,02/03/2020,68313,Kimia Farma - Apotek,Palembang,Sumatera Selatan,"4,8",KF141,Drugs for obstructive airway diseases,221100,"0,03","0,2",214467,"42893,4",3
+TRX1242327,03/09/2020,12174,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,"4,7",KF141,Drugs for obstructive airway diseases,221100,"0,03","0,2",214467,"42893,4",3
+TRX1424754,02/07/2020,53635,Kimia Farma - Klinik & Apotek,Ternate,Maluku Utara,"4,9",KF141,Drugs for obstructive airway diseases,221100,"0,01","0,2",218889,"43777,8",3
+TRX8093685,19/05/2021,85549,Kimia Farma - Apotek,Ciamis,Jawa Barat,4,KF141,Drugs for obstructive airway diseases,221100,"0,1","0,2",198990,39798,3
+TRX8575690,15/12/2020,84188,Kimia Farma - Klinik & Apotek,Makassar,Sulawesi Selatan,4,KF141,Drugs for obstructive airway diseases,221100,"0,05","0,2",210045,42009,3
+TRX3292024,19/05/2022,80802,Kimia Farma - Apotek,Sukabumi,Jawa Barat,"4,9",KF141,Drugs for obstructive airway diseases,221100,"0,05","0,2",210045,42009,3
+TRX6262874,14/04/2021,66113,Kimia Farma - Apotek,Bekasi,Jawa Barat,4,KF141,Drugs for obstructive airway diseases,221100,"0,13","0,2",192357,"38471,4",3
+TRX4424021,06/06/2023,24963,Kimia Farma - Apotek,Purwakarta,Jawa Barat,"4,2",KF141,Drugs for obstructive airway diseases,221100,"0,1","0,2",198990,39798,3
+TRX2014690,23/05/2023,28795,Kimia Farma - Klinik-Apotek-Laboratorium,Magelang,Jawa Tengah,4,KF141,Drugs for obstructive airway diseases,221100,"0,12","0,2",194568,"38913,6",3
+TRX3727750,13/09/2021,20382,Kimia Farma - Apotek,Batam,Kepulauan Riau,"4,2",KF141,Drugs for obstructive airway diseases,221100,"0,07","0,2",205623,"41124,6",3
+TRX1220071,18/01/2021,41131,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,"4,8",KF141,Drugs for obstructive airway diseases,221100,"0,12","0,2",194568,"38913,6",3
+TRX3799262,03/01/2020,63732,Kimia Farma - Klinik & Apotek,Tarakan,Kalimantan Utara,"4,5",KF141,Drugs for obstructive airway diseases,221100,"0,11","0,2",196779,"39355,8",3
+TRX7161548,08/06/2021,69958,Kimia Farma - Klinik & Apotek,Palembang,Sumatera Selatan,"4,7",KF141,Drugs for obstructive airway diseases,221100,"0,13","0,2",192357,"38471,4",3
+TRX1794690,07/10/2022,39499,Kimia Farma - Apotek,Denpasar,Bali,"4,5",KF141,Drugs for obstructive airway diseases,221100,"0,11","0,2",196779,"39355,8",3
+TRX7537003,29/06/2021,15273,Kimia Farma - Klinik-Apotek-Laboratorium,Ambon,Maluku,"4,3",KF141,Drugs for obstructive airway diseases,221100,"0,05","0,2",210045,42009,3
+TRX9021414,05/12/2023,28380,Kimia Farma - Klinik-Apotek-Laboratorium,Bekasi,Jawa Barat,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,06","0,2",207834,"41566,8",3
+TRX9015400,12/06/2022,46746,Kimia Farma - Klinik & Apotek,Jambi,Jambi,"4,9",KF141,Drugs for obstructive airway diseases,221100,"0,02","0,2",216678,"43335,6",3
+TRX4153278,30/06/2021,15418,Kimia Farma - Klinik & Apotek,Pematangsiantar,Sumatera Utara,"4,9",KF141,Drugs for obstructive airway diseases,221100,"0,06","0,2",207834,"41566,8",3
+TRX2395826,21/07/2020,28380,Kimia Farma - Klinik-Apotek-Laboratorium,Bekasi,Jawa Barat,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,03","0,2",214467,"42893,4",3
+TRX2161529,01/04/2023,82636,Kimia Farma - Apotek,Palu,Sulawesi Tengah,"4,7",KF141,Drugs for obstructive airway diseases,221100,"0,09","0,2",201201,"40240,2",3
+TRX7339850,12/01/2020,78847,Kimia Farma - Klinik-Apotek-Laboratorium,Batam,Kepulauan Riau,"4,6",KF141,Drugs for obstructive airway diseases,221100,"0,04","0,2",212256,"42451,2",3
+TRX2225688,10/03/2023,49606,Kimia Farma - Apotek,Palu,Sulawesi Tengah,"4,6",KF141,Drugs for obstructive airway diseases,221100,"0,08","0,2",203412,"40682,4",3
+TRX4299302,08/08/2021,33502,Kimia Farma - Klinik & Apotek,Padang,Sumatera Barat,"3,9",KF141,Drugs for obstructive airway diseases,221100,"0,14","0,2",190146,"38029,2",3
+TRX6753094,31/10/2021,53199,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4,KF141,Drugs for obstructive airway diseases,221100,"0,08","0,2",203412,"40682,4",3
+TRX8696145,25/07/2023,86997,Kimia Farma - Klinik-Apotek-Laboratorium,Pariaman,Sumatera Barat,"4,3",KF141,Drugs for obstructive airway diseases,221100,"0,04","0,2",212256,"42451,2",3
+TRX9488911,31/01/2023,20735,Kimia Farma - Klinik & Apotek,Denpasar,Bali,"4,9",KF141,Drugs for obstructive airway diseases,221100,"0,14","0,2",190146,"38029,2",3
+TRX2094251,09/01/2020,64359,Kimia Farma - Klinik & Apotek,Sukabumi,Jawa Barat,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,04","0,2",212256,"42451,2",3
+TRX9857711,19/02/2022,45266,Kimia Farma - Klinik & Apotek,Palembang,Sumatera Selatan,4,KF141,Drugs for obstructive airway diseases,221100,"0,12","0,2",194568,"38913,6",3
+TRX8554205,04/01/2021,76351,Kimia Farma - Apotek,Palu,Sulawesi Tengah,"4,4",KF141,Drugs for obstructive airway diseases,221100,"0,05","0,2",210045,42009,3
+TRX7072610,30/08/2020,25090,Kimia Farma - Apotek,Sukabumi,Jawa Barat,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,06","0,2",207834,"41566,8",3
+TRX4731376,21/06/2022,23248,Kimia Farma - Apotek,Bima,Nusa Tenggara Barat,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,08","0,2",203412,"40682,4",3
+TRX2228843,30/10/2022,25962,Kimia Farma - Klinik & Apotek,Garut,Jawa Barat,"4,8",KF141,Drugs for obstructive airway diseases,221100,"0,12","0,2",194568,"38913,6",3
+TRX4077798,07/03/2020,30282,Kimia Farma - Apotek,Ciamis,Jawa Barat,"4,4",KF141,Drugs for obstructive airway diseases,221100,"0,01","0,2",218889,"43777,8",3
+TRX7607178,06/02/2020,58202,Kimia Farma - Klinik-Apotek-Laboratorium,Manado,Sulawesi Utara,"3,9",KF141,Drugs for obstructive airway diseases,221100,"0,06","0,2",207834,"41566,8",3
+TRX2451375,06/06/2021,60078,Kimia Farma - Klinik & Apotek,Denpasar,Bali,"4,4",KF141,Drugs for obstructive airway diseases,221100,"0,09","0,2",201201,"40240,2",3
+TRX9895400,11/06/2023,66611,Kimia Farma - Klinik-Apotek-Laboratorium,Garut,Jawa Barat,"4,4",KF141,Drugs for obstructive airway diseases,221100,0,"0,2",221100,44220,3
+TRX7517253,25/07/2023,76470,Kimia Farma - Klinik & Apotek,Purwakarta,Jawa Barat,"4,3",KF141,Drugs for obstructive airway diseases,221100,0,"0,2",221100,44220,3
+TRX9413434,03/06/2020,31233,Kimia Farma - Klinik-Apotek-Laboratorium,Bogor,Jawa Barat,"4,7",KF141,Drugs for obstructive airway diseases,221100,"0,07","0,2",205623,"41124,6",3
+TRX7774977,18/08/2023,31305,Kimia Farma - Apotek,Sibolga,Sumatera Utara,"4,2",KF141,Drugs for obstructive airway diseases,221100,"0,04","0,2",212256,"42451,2",3
+TRX4117588,21/11/2020,24223,Kimia Farma - Klinik & Apotek,Makassar,Sulawesi Selatan,"4,7",KF141,Drugs for obstructive airway diseases,221100,"0,05","0,2",210045,42009,3
+TRX3370593,23/12/2020,28053,Kimia Farma - Apotek,Semarang,Jawa Tengah,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,14","0,2",190146,"38029,2",3
+TRX1431667,02/04/2021,23824,Kimia Farma - Klinik & Apotek,Pekanbaru,Riau,"4,9",KF141,Drugs for obstructive airway diseases,221100,"0,04","0,2",212256,"42451,2",3
+TRX9797653,18/12/2020,80525,Kimia Farma - Apotek,Subang,Jawa Barat,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,07","0,2",205623,"41124,6",3
+TRX1450790,06/06/2022,43283,Kimia Farma - Apotek,Surabaya,Jawa Timur,"4,6",KF141,Drugs for obstructive airway diseases,221100,"0,11","0,2",196779,"39355,8",3
+TRX1298250,03/12/2020,48243,Kimia Farma - Klinik & Apotek,Tasikmalaya,Jawa Barat,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,1","0,2",198990,39798,3
+TRX7512941,18/10/2021,90145,Kimia Farma - Klinik-Apotek-Laboratorium,Padang Sidempuan,Sumatera Utara,"4,5",KF141,Drugs for obstructive airway diseases,221100,"0,07","0,2",205623,"41124,6",3
+TRX2419848,23/04/2023,74277,Kimia Farma - Klinik & Apotek,Mataram,Nusa Tenggara Barat,"4,7",KF141,Drugs for obstructive airway diseases,221100,"0,11","0,2",196779,"39355,8",3
+TRX6641837,17/10/2022,38599,Kimia Farma - Klinik & Apotek,Yogyakarta,DI Yogyakarta,"4,8",KF141,Drugs for obstructive airway diseases,221100,"0,12","0,2",194568,"38913,6",3
+TRX5782722,04/11/2020,55402,Kimia Farma - Klinik-Apotek-Laboratorium,Purwakarta,Jawa Barat,"4,9",KF141,Drugs for obstructive airway diseases,221100,"0,08","0,2",203412,"40682,4",3
+TRX2027171,05/03/2022,21578,Kimia Farma - Klinik-Apotek-Laboratorium,Cirebon,Jawa Barat,4,KF141,Drugs for obstructive airway diseases,221100,"0,06","0,2",207834,"41566,8",3
+TRX8981153,04/06/2022,51160,Kimia Farma - Klinik & Apotek,Lhokseumawe,Aceh,"4,9",KF141,Drugs for obstructive airway diseases,221100,"0,06","0,2",207834,"41566,8",3
+TRX5275608,29/04/2023,67303,Kimia Farma - Klinik-Apotek-Laboratorium,Magelang,Jawa Tengah,"3,9",KF141,Drugs for obstructive airway diseases,221100,"0,07","0,2",205623,"41124,6",3
+TRX5045236,06/01/2023,87218,Kimia Farma - Klinik-Apotek-Laboratorium,Samarinda,Kalimantan Timur,"4,2",KF141,Drugs for obstructive airway diseases,221100,"0,01","0,2",218889,"43777,8",3
+TRX2884219,18/12/2022,67807,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,"4,4",KF141,Drugs for obstructive airway diseases,221100,"0,12","0,2",194568,"38913,6",3
+TRX1055349,16/04/2020,40699,Kimia Farma - Apotek,Surabaya,Jawa Timur,"4,1",KF141,Drugs for obstructive airway diseases,221100,"0,02","0,2",216678,"43335,6",3
+TRX1314688,15/05/2020,45521,Kimia Farma - Klinik & Apotek,Pekanbaru,Riau,"4,8",KF141,Drugs for obstructive airway diseases,221100,"0,07","0,2",205623,"41124,6",3
+TRX5535908,23/04/2021,31494,Kimia Farma - Klinik-Apotek-Laboratorium,Gorontalo,Gorontalo,"4,6",KF141,Drugs for obstructive airway diseases,221100,"0,1","0,2",198990,39798,3
+TRX6869209,19/02/2021,82095,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,"4,4",KF141,Drugs for obstructive airway diseases,221100,"0,12","0,2",194568,"38913,6",3
+TRX4316926,01/10/2023,67153,Kimia Farma - Klinik & Apotek,Makassar,Sulawesi Selatan,"4,4",KF141,Drugs for obstructive airway diseases,221100,"0,09","0,2",201201,"40240,2",3
+TRX4576978,02/12/2020,68330,Kimia Farma - Klinik-Apotek-Laboratorium,Magelang,Jawa Tengah,"4,6",KF141,Drugs for obstructive airway diseases,221100,"0,13","0,2",192357,"38471,4",3
+TRX7023850,24/03/2023,91061,Kimia Farma - Klinik & Apotek,Tasikmalaya,Jawa Barat,"4,8",KF141,Drugs for obstructive airway diseases,221100,"0,08","0,2",203412,"40682,4",3
+TRX1906125,17/06/2020,49864,Kimia Farma - Apotek,Banda Aceh,Aceh,"4,3",KF141,Drugs for obstructive airway diseases,221100,"0,03","0,2",214467,"42893,4",3
+TRX1571798,06/11/2021,44780,Kimia Farma - Klinik & Apotek,Ambon,Maluku,"4,5",KF141,Drugs for obstructive airway diseases,221100,"0,12","0,2",194568,"38913,6",3
+TRX6174451,20/01/2020,69482,Kimia Farma - Klinik & Apotek,Kendari,Sulawesi Tenggara,"4,2",KF141,Drugs for obstructive airway diseases,221100,"0,1","0,2",198990,39798,3
+TRX3196269,21/11/2021,21171,Kimia Farma - Apotek,Indramayu,Jawa Barat,4,KF141,Drugs for obstructive airway diseases,221100,"0,09","0,2",201201,"40240,2",3
+TRX7275617,06/01/2021,96500,Kimia Farma - Klinik & Apotek,Probolinggo,Jawa Timur,"4,7",KF141,Drugs for obstructive airway diseases,221100,"0,08","0,2",203412,"40682,4",3
+TRX3090551,08/06/2020,30563,Kimia Farma - Klinik & Apotek,Purwakarta,Jawa Barat,"3,9",KF141,Drugs for obstructive airway diseases,221100,"0,13","0,2",192357,"38471,4",3
+TRX9653385,29/08/2020,29281,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,"4,7",KF141,Drugs for obstructive airway diseases,221100,"0,07","0,2",205623,"41124,6",3
+TRX2590755,16/02/2022,35746,Kimia Farma - Apotek,Surabaya,Jawa Timur,"4,5",KF141,Drugs for obstructive airway diseases,221100,"0,04","0,2",212256,"42451,2",3
+TRX4279677,23/08/2021,61961,Kimia Farma - Klinik-Apotek-Laboratorium,Garut,Jawa Barat,"4,2",KF141,Drugs for obstructive airway diseases,221100,0,"0,2",221100,44220,3
+TRX7879114,13/10/2022,85981,Kimia Farma - Klinik-Apotek-Laboratorium,Cirebon,Jawa Barat,"4,3",KF141,Drugs for obstructive airway diseases,221100,"0,14","0,2",190146,"38029,2",3
+TRX9522867,28/05/2023,76512,Kimia Farma - Klinik & Apotek,Bogor,Jawa Barat,"4,7",KF147,Antihistamines for systemic use,684900,"0,1","0,3",616410,184923,3
+TRX1594078,23/06/2020,56379,Kimia Farma - Klinik-Apotek-Laboratorium,Semarang,Jawa Tengah,4,KF147,Antihistamines for systemic use,684900,"0,08","0,3",630108,"189032,4",3
+TRX4409654,16/12/2021,29294,Kimia Farma - Klinik-Apotek-Laboratorium,Ternate,Maluku Utara,"4,1",KF147,Antihistamines for systemic use,684900,"0,13","0,3",595863,"178758,9",3
+TRX1995220,01/07/2023,24223,Kimia Farma - Klinik & Apotek,Makassar,Sulawesi Selatan,"4,7",KF147,Antihistamines for systemic use,684900,"0,1","0,3",616410,184923,3
+TRX4342094,09/12/2021,75568,Kimia Farma - Klinik-Apotek-Laboratorium,Purwakarta,Jawa Barat,"4,1",KF147,Antihistamines for systemic use,684900,"0,06","0,3",643806,"193141,8",3
+TRX3362697,19/10/2022,21204,Kimia Farma - Klinik & Apotek,Sibolga,Sumatera Utara,5,KF147,Antihistamines for systemic use,684900,"0,01","0,3",678051,"203415,3",3
+TRX6637569,31/05/2022,95634,Kimia Farma - Klinik & Apotek,Sorong,Papua Barat,"4,5",KF147,Antihistamines for systemic use,684900,"0,06","0,3",643806,"193141,8",3
+TRX2544872,25/02/2020,18235,Kimia Farma - Klinik & Apotek,Pekanbaru,Riau,"4,8",KF147,Antihistamines for systemic use,684900,"0,11","0,3",609561,"182868,3",3
+TRX2697995,26/10/2021,76725,Kimia Farma - Apotek,Subang,Jawa Barat,"4,9",KF147,Antihistamines for systemic use,684900,"0,04","0,3",657504,"197251,2",3
+TRX1682293,28/05/2023,42965,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4,KF147,Antihistamines for systemic use,684900,"0,1","0,3",616410,184923,3
+TRX5381323,20/06/2021,89156,Kimia Farma - Klinik & Apotek,Pontianak,Kalimantan Barat,4,KF147,Antihistamines for systemic use,684900,"0,09","0,3",623259,"186977,7",3
+TRX6355348,25/12/2020,97894,Kimia Farma - Klinik & Apotek,Subang,Jawa Barat,"4,5",KF147,Antihistamines for systemic use,684900,"0,09","0,3",623259,"186977,7",3
+TRX6559552,24/04/2023,78847,Kimia Farma - Klinik-Apotek-Laboratorium,Batam,Kepulauan Riau,"4,6",KF147,Antihistamines for systemic use,684900,"0,01","0,3",678051,"203415,3",3
+TRX4296304,11/02/2020,88782,Kimia Farma - Klinik-Apotek-Laboratorium,Makassar,Sulawesi Selatan,5,KF147,Antihistamines for systemic use,684900,"0,05","0,3",650655,"195196,5",3
+TRX9691846,20/03/2023,47901,Kimia Farma - Apotek,Cianjur,Jawa Barat,"4,1",KF147,Antihistamines for systemic use,684900,"0,04","0,3",657504,"197251,2",3
+TRX1153050,06/07/2020,89771,Kimia Farma - Klinik & Apotek,Pekanbaru,Riau,"4,1",KF147,Antihistamines for systemic use,684900,"0,14","0,3",589014,"176704,2",3
+TRX8760520,03/12/2021,53383,Kimia Farma - Klinik-Apotek-Laboratorium,Garut,Jawa Barat,"4,6",KF147,Antihistamines for systemic use,684900,"0,04","0,3",657504,"197251,2",3
+TRX2412965,24/05/2021,37599,Kimia Farma - Klinik & Apotek,Manado,Sulawesi Utara,5,KF147,Antihistamines for systemic use,684900,"0,12","0,3",602712,"180813,6",3
+TRX1084145,13/12/2023,24559,Kimia Farma - Klinik-Apotek-Laboratorium,Kendari,Sulawesi Tenggara,5,KF147,Antihistamines for systemic use,684900,"0,01","0,3",678051,"203415,3",3
+TRX3901824,07/08/2021,13792,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,4,KF147,Antihistamines for systemic use,684900,"0,03","0,3",664353,"199305,9",3
+TRX5216339,03/06/2021,72718,Kimia Farma - Klinik & Apotek,Bekasi,Jawa Barat,"4,9",KF147,Antihistamines for systemic use,684900,"0,11","0,3",609561,"182868,3",3
+TRX9622982,08/06/2021,47413,Kimia Farma - Klinik & Apotek,Garut,Jawa Barat,"4,4",KF147,Antihistamines for systemic use,684900,"0,06","0,3",643806,"193141,8",3
+TRX5061094,12/05/2021,24277,Kimia Farma - Apotek,Lhokseumawe,Aceh,"4,2",KF147,Antihistamines for systemic use,684900,"0,03","0,3",664353,"199305,9",3
+TRX4641930,26/05/2020,50164,Kimia Farma - Klinik & Apotek,Cianjur,Jawa Barat,"4,1",KF147,Antihistamines for systemic use,684900,"0,05","0,3",650655,"195196,5",3
+TRX7733068,08/03/2021,66717,Kimia Farma - Apotek,Subang,Jawa Barat,"4,2",KF147,Antihistamines for systemic use,684900,"0,09","0,3",623259,"186977,7",3
+TRX8988189,13/11/2020,63942,Kimia Farma - Apotek,Bandung,Jawa Barat,5,KF147,Antihistamines for systemic use,684900,"0,12","0,3",602712,"180813,6",3
+TRX8826144,03/02/2020,35596,Kimia Farma - Klinik-Apotek-Laboratorium,Denpasar,Bali,"4,7",KF147,Antihistamines for systemic use,684900,0,"0,3",684900,205470,3
+TRX5706463,07/10/2023,12369,Kimia Farma - Apotek,Ciamis,Jawa Barat,"4,4",KF147,Antihistamines for systemic use,684900,"0,12","0,3",602712,"180813,6",3
+TRX1682644,11/11/2021,27405,Kimia Farma - Klinik & Apotek,Padang,Sumatera Barat,"4,2",KF147,Antihistamines for systemic use,684900,"0,06","0,3",643806,"193141,8",3
+TRX1484886,06/07/2022,14338,Kimia Farma - Klinik & Apotek,Cilacap,Jawa Tengah,4,KF147,Antihistamines for systemic use,684900,"0,01","0,3",678051,"203415,3",3
+TRX5667468,28/04/2023,28923,Kimia Farma - Klinik & Apotek,Purwakarta,Jawa Barat,"4,2",KF147,Antihistamines for systemic use,684900,"0,05","0,3",650655,"195196,5",3
+TRX5205238,29/07/2022,28422,Kimia Farma - Apotek,Pariaman,Sumatera Barat,"3,9",KF147,Antihistamines for systemic use,684900,"0,02","0,3",671202,"201360,6",3
+TRX6804230,04/01/2022,65622,Kimia Farma - Klinik & Apotek,Padang,Sumatera Barat,"4,6",KF147,Antihistamines for systemic use,684900,"0,1","0,3",616410,184923,3
+TRX5870658,19/02/2020,71419,Kimia Farma - Klinik & Apotek,Sukabumi,Jawa Barat,"4,6",KF147,Antihistamines for systemic use,684900,"0,05","0,3",650655,"195196,5",3
+TRX6378086,14/02/2022,22360,Kimia Farma - Klinik-Apotek-Laboratorium,Pangkalpinang,Bangka Belitung,"4,5",KF147,Antihistamines for systemic use,684900,"0,03","0,3",664353,"199305,9",3
+TRX7899288,20/06/2021,34034,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,"3,9",KF147,Antihistamines for systemic use,684900,"0,08","0,3",630108,"189032,4",3
+TRX7849196,22/07/2021,22086,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,"4,2",KF147,Antihistamines for systemic use,684900,"0,09","0,3",623259,"186977,7",3
+TRX1275846,20/02/2023,57196,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,"4,8",KF147,Antihistamines for systemic use,684900,"0,05","0,3",650655,"195196,5",3
+TRX8927141,13/10/2020,29729,Kimia Farma - Klinik-Apotek-Laboratorium,Denpasar,Bali,"4,2",KF147,Antihistamines for systemic use,684900,"0,05","0,3",650655,"195196,5",3
+TRX4846283,07/02/2021,19046,Kimia Farma - Klinik-Apotek-Laboratorium,Langsa,Aceh,5,KF147,Antihistamines for systemic use,684900,"0,1","0,3",616410,184923,3
