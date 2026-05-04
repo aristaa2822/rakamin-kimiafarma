@@ -22,7 +22,6 @@ Link Looker Studio:
 (https://datastudio.google.com/s/gdr8Nx8A1gU)
 ---
 ## 📸 Screenshot
-![Dashboard](dashboard.png)
 ---
 ## 💡 Insight
 - Penjualan tertinggi terdapat pada beberapa provinsi tertentu
